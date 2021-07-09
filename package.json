@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "element-plus": "^1.0.2-beta.54",
-    "jsmediatags": "^3.9.7",
     "vue": "^3.0.5"
   },
   "devDependencies": {
